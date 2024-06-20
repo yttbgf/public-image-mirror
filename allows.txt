@@ -88,6 +88,7 @@ docker.io/pytorch/**
 docker.io/rancher/**
 docker.io/rclone/**
 docker.io/redislabs/**
+docker.io/rocm/**
 docker.io/seataio/**
 docker.io/semitechnologies/**
 docker.io/sonobuoy/**
